@@ -10,7 +10,7 @@ IFS=$'\n'
       TITULO=$(echo "$LINHA" | sed 's|.*,||')  
     fi
     if [ "$LINHA_INFO" -eq 1 ] && [ -z "$INFO" ]; then
-      echo "$LINHA" > "$TITULO.strm"
+      printf "%s" "$LINHA" >> "$TITULO.strm"
       LINHA_INFO=0
    fi
  done < "$LISTA"
