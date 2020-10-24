@@ -6,6 +6,8 @@ old/
 original/
 log/
 log_test*/
+strm/
+stream/
 tmp/
 *debug*.*
 *test*.*
