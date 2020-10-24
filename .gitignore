@@ -3,6 +3,7 @@
 *.log
 *.m3u8
 old/
+original/
 log/
 log_test*/
 tmp/
