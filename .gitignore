@@ -1,0 +1,10 @@
+*.cfg
+*.txt
+*.log
+*.m3u8
+old/
+log/
+log_test*/
+tmp/
+*debug*.*
+*test*.*
