@@ -9,7 +9,7 @@ Thank you migueltarga for the basics to this idea!
 To get you started quickly running this script I've created this quick guide:
 1. Create a file named wget.cfg in the same directory as you run this script from with the following content:  
 URL="http://ip.tv"  
-PORT="1234"
+PORT="1234"  
 USERNAME="ABCD"  
 PASSWORD="EFGH"  
 
