@@ -4,8 +4,8 @@ parse an m3u8-file and output strm files
 forked from gist: https://gist.github.com/migueltarga/9f9ada182c46e8ae0414937d8416aad6
 
 Thank you migueltarga for the basics to this idea!
-
-
+  
+  
 To get you started quickly running this script I've created this quick guide:
 1. Create a file named wget.cfg in the same directory as you run this script from with the following content:  
 URL="http://ip.tv"  
@@ -49,7 +49,7 @@ strm.sh
 uwgroups.cfg  
 wget.cfg  
 
-10. You are now ready for the script to run and create strm files! Run the command again, but this time without any switch, but only the location of your original.m3u8:
+10. You are now ready for the script to run and create strm files! Run the command again, but this time without any switch, but only the location of your original.m3u8:  
 $ ./strm.sh /path/to/original.m3u8  
 
 The command will run the full script and output the strm files in a strm-subfolder of the script directory. If you want to change the output location you need to edit the OUTDIR in the strm.sh file. For an average computer to complete this task can take up to 30 minutes or more.  
