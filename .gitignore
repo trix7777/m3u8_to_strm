@@ -2,12 +2,15 @@
 *.txt
 *.log
 *.m3u8
-old/
+archive/
 original/
 log/
+logs/
 log_test*/
+logs_test*/
 strm/
 stream/
 tmp/
+temp/
 *debug*.*
 *test*.*
