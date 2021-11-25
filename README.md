@@ -1,4 +1,16 @@
 # m3u8_to_strm
+
+
+-----------------------------------------------------------------------------------
+NOTE: This script is old and outdated and I doubt I will ever update it again. For
+an updated function, I've re-written the funtions of this script in a C# command
+line app called 'm2strm' which is comatible with both Windows and Linux (using
+mono) and is lightyears faster than this script. This app has all the funtions of
+this script plus much much more. You can find the m2strm app here:
+https://github.com/trix7777/m2strm
+-----------------------------------------------------------------------------------
+
+
 parse an m3u8-file and output strm files
 
 forked from gist: https://gist.github.com/migueltarga/9f9ada182c46e8ae0414937d8416aad6
