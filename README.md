@@ -3,8 +3,8 @@
 
 -----------------------------------------------------------------------------------
 NOTE: This script is old and outdated and I doubt I will ever update it again. For
-an updated function, I've re-written the funtions of this script in a C# command
-line app called 'm2strm' which is comatible with both Windows and Linux (using
+an updated function, I've re-written the functions of this script in a C# command
+line app called 'm2strm' which is compatible with both Windows and Linux (using
 mono) and is lightyears faster than this script. This app has all the funtions of
 this script plus much much more. You can find the m2strm app here:
 https://github.com/trix7777/m2strm
